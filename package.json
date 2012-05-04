@@ -1,0 +1,22 @@
+{
+	"name": "ayah",
+	"version": "0.1.0",
+	"description": "An API frontend for captcha replacement 'are you a human' http://www.areyouahuman.com/",
+	"keywords": [
+		"are you a human",
+		"ayah",
+		"captcha"
+	],
+	"url": "https://github.com/herzi/node-ayah",
+	"bugs": "https://guthub.com/herzi/node-ayah/issues",
+	"author": {
+		"name": "Sven Herzberg",
+		"email": "herzberg.sven@googlemail.com",
+		"url": "https://github.com/herzi"
+	},
+	"main": "./index",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/herzi/node-ayah.git"
+	}
+}
